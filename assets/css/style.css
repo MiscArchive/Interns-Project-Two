@@ -1374,7 +1374,7 @@ section {
   text-decoration: none;
   color: #ffa863;
 }
-}
+
 
 #footer .footer-top .social-links a {
   font-size: 18px;
@@ -1408,8 +1408,9 @@ section {
 }
 
 footer .credits a{
-  color: #892504;
+  color: black;
   font-weight: bolder;
+
 }
 
 @media (max-width: 575px) {
@@ -1421,13 +1422,8 @@ footer .credits a{
   }
 }
 
-.footer-bottom {
-  border-top: #1de03d;
-}
 
-.footer-bottom a{
-  color: #ffa863;
-}
+
 
 .arrow-top{
   background-color: #983c1c;
