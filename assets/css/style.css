@@ -1325,13 +1325,12 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Lato", sans-serif;
-  color: #777777;
+ 
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #0f394c;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1348,7 +1347,6 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #49b5e7;
   font-size: 18px;
   line-height: 1;
 }
@@ -1364,7 +1362,6 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1372,7 +1369,6 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #49b5e7;
 }
 
 #footer .footer-top .social-links a {
@@ -1398,13 +1394,11 @@ section {
 
 #footer .copyright {
   float: left;
-  color: #0f394c;
 }
 
 #footer .credits {
   float: right;
   font-size: 13px;
-  color: #0f394c;
 }
 
 @media (max-width: 575px) {
@@ -1414,4 +1408,8 @@ section {
     float: none;
     text-align: center;
   }
+}
+
+.footer-bottom {
+  border-top: #1de03d;
 }

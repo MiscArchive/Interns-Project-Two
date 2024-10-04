@@ -1299,7 +1299,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #49b5e7;
+  
   font-size: 18px;
   line-height: 1;
 }
@@ -1323,7 +1323,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #49b5e7;
+  
 }
 
 #footer .footer-top .social-links a {
