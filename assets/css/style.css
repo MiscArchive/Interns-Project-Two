@@ -10,17 +10,18 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family:'lato' ;
   color: #444444;
 }
 
 a {
   text-decoration: none;
-  color: #49b5e7;
+  color: #983c1c;
 }
 
 a:hover {
-  color: #76c7ed;
+
+  color: #983c1c ;
   text-decoration: none;
 }
 
@@ -124,7 +125,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Dosis", sans-serif;
+  font-family: 'lato';
   font-size: 15px;
   font-weight: 600;
   color: #0f394c;
@@ -144,7 +145,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #49b5e7;
+  color: #983c1c;
 }
 
 
