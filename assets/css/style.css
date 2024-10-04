@@ -1365,10 +1365,13 @@ section {
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
+  color: #fff;
 }
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
+  color: #ffa863;
+}
 }
 
 #footer .footer-top .social-links a {
@@ -1387,7 +1390,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1da2e0;
+  background: #ffa863;
   color: #fff;
   text-decoration: none;
 }
@@ -1398,7 +1401,13 @@ section {
 
 #footer .credits {
   float: right;
-  font-size: 13px;
+  /* font-size: 13px; */
+  font-weight: 900;
+}
+
+footer .credits a{
+  color: #742308;
+  font-weight: bolder;
 }
 
 @media (max-width: 575px) {
@@ -1412,4 +1421,16 @@ section {
 
 .footer-bottom {
   border-top: #1de03d;
+}
+
+.footer-bottom a{
+  color: #ffa863;
+}
+
+.arrow-top{
+  background-color: #983c1c;
+}
+
+.arrow-top:hover{
+  background-color: #742308;
 }
