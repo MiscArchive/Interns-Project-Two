@@ -377,7 +377,9 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #0f394c;
+  color: black;
+  font-family: 'lato';
+  text-align: center;
   margin-bottom: 15px;
 }
 
@@ -434,7 +436,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/portrait-young-traveler-with-headphones.jpg") center center no-repeat;
+  
   background-size: cover;
   min-height: 500px;
 }
@@ -1376,7 +1378,7 @@ section {
   text-decoration: none;
   color: #ffa863;
 }
-}
+
 
 #footer .footer-top .social-links a {
   font-size: 18px;
