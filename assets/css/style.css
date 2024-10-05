@@ -405,7 +405,7 @@ section {
   position: relative;
   overflow: hidden;
   border-radius: 10px;
-  margin: 0 10px 40px 10px;
+  
   background: #fff;
   background: url("../img/2151056773.jpg") top center no-repeat;
   background-size: cover;
@@ -1472,3 +1472,13 @@ footer .credits a{
 .arrow-top:hover{
   background-color: #742308;
 }
+
+
+
+
+
+
+
+
+
+
