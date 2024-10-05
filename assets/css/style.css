@@ -1481,7 +1481,20 @@ footer .credits a{
 
 
 
+.container-fluid{
+  --bs-gutter-x: 0rem !important;
+  --bs-gutter-y:0rem !important;
+}
 
+.container{
+  --bs-gutter-x: 0rem !important;
+  --bs-gutter-y:0rem !important;
+}
+
+.row{
+  --bs-gutter-x: 0rem !important;
+  --bs-gutter-y:0rem !important;
+}
 
 
 
