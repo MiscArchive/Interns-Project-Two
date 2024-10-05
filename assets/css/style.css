@@ -324,6 +324,9 @@ h6 {
   
 }
 
+
+
+
 @media (max-width: 768px) {
   #hero {
     text-align: center;
@@ -405,7 +408,7 @@ section {
   position: relative;
   overflow: hidden;
   border-radius: 10px;
-  margin: 0 10px 40px 10px;
+  
   background: #fff;
   background: url("../img/2151056773.jpg") top center no-repeat;
   background-size: cover;
@@ -880,10 +883,12 @@ section {
 }
 
 #hero-two{
-  background: url("../img/orange-headphones-abstract-background-pair-orange-headphones-rest-abstract-yel.jpg") center center no-repeat;
+  background: url("../img/3d-music-related-scene\ \(1\).jpg") center center no-repeat;
   background-size: cover;
   padding: 80px 0 60px 0;
-  position: relative;
+  height: 100%;
+  width: 100%;
+  
 }
 
 
@@ -895,7 +900,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/cta-bg.jpg") no-repeat;
+  background: url("../img/dj-mixer\ -\ Copy.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1472,3 +1477,13 @@ footer .credits a{
 .arrow-top:hover{
   background-color: #742308;
 }
+
+
+
+
+
+
+
+
+
+
