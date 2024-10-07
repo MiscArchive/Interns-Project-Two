@@ -361,7 +361,8 @@ section {
 
 
 .section-bg {
-  background-color: #eff4f6;
+  /* background-color: #fbf6e3; */
+  
   
 }
 
@@ -1534,6 +1535,18 @@ footer .credits a{
 }
 
 
+.navbar-toggler{
+  /* border: none; */
+  outline: none;
+}
+
+
+.navbar-toggler :focus , .navbar-toggler:active{
+  border: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+
+}
 
 
 
