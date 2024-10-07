@@ -890,16 +890,16 @@ section {
   background-size: cover;
   padding: 80px 0 60px 0;
   height: 500px;
-  width: 1300px;
+  width: 100%;
   
 }
 
 #hero-mixing{
-  background: url("../img/MIXING\ AND\ MASTERING.jpg") center center no-repeat;
+  background: url("../img/pair-headphones-with-colorful-intricate-designgenerative-ai-image.jpg") center center no-repeat;
   background-size: cover;
   padding: 80px 0 60px 0;
   height: 500px;
-  width: 1300px;
+  width: 100%;
   
 }
 
@@ -908,7 +908,7 @@ section {
   background-size: cover;
   padding: 80px 0 60px 0;
   height: 500px;
-  width: 1300px;
+  width: 100%;
   
 }
 #hero-sound{
@@ -916,7 +916,7 @@ section {
   background-size: cover;
   padding: 80px 0 60px 0;
   height: 500px;
-  width: 1300px;
+  width: 100%;
   
 }
 #hero-video{
@@ -924,7 +924,7 @@ section {
   background-size: cover;
   padding: 80px 0 60px 0;
   height: 500px;
-  width: 1300px;
+  width: 100%;
   
 }
 
