@@ -1699,7 +1699,7 @@ footer .credits a{
 
 @keyframes scale-up4 {
   20% {
-    background-color: #ffff;
+    background-color: #000;
     transform: scaleY(1.5);
   }
 
